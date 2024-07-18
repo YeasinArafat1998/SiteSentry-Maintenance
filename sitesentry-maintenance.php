@@ -2,8 +2,8 @@
 /*
 Plugin Name: SiteSentry Maintenance
 Description: A sophisticated maintenance mode plugin for WordPress that allows administrators to schedule maintenance windows, customize messages using a WYSIWYG editor, and exclude administrators from the maintenance restrictions.
-Version: 1.0
-Author: Your Name
+Version: 1.0.1
+Author: Yeasin Arafat
 */
 
 // Hook for adding admin menus
